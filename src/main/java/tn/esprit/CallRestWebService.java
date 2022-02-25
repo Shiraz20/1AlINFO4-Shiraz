@@ -38,6 +38,7 @@ public class CallRestWebService {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		//class CallRestWebService
 	}
 }
 
